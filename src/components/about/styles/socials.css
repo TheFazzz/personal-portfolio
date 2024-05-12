@@ -1,0 +1,30 @@
+.social,
+.email-wrapper {
+	display: flex;
+	padding-bottom: 20px;
+}
+
+.social a,
+.email-wrapper a {
+	text-decoration: none;
+}
+
+.social-icon {
+	font-size: 15px;
+	color: #27272a;
+}
+
+.social-text {
+	color: #27272a;
+	padding-left: 30px;
+	margin-top: -20px;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.socials-header {
+	font-size: 30px;
+	font-family: "Heebo", sans-serif;
+	font-weight: 600;
+	padding-bottom: 30px;
+}
