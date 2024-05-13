@@ -38,7 +38,7 @@ const INFO = {
             
             
 			logos: [
-                "../react.png"
+                `${process.env.PUBLIC_URL}/react.png`
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com/TheFazzz",
@@ -54,9 +54,9 @@ const INFO = {
 				gyms whereever they are and view guest passes. Users can compare prices, view photos, 
 				amenities, and purchase passes directly through the app.`,
             logos: [
-                "../python.png",
-                "../postgresql.png",
-                "../react.png",
+                `${process.env.PUBLIC_URL}/python.png`,
+				`${process.env.PUBLIC_URL}/postgresql.png`,
+				`${process.env.PUBLIC_URL}/react.png`,
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com/TheFazzz/TravelFit"
@@ -69,9 +69,9 @@ const INFO = {
 				seamless doctor-patient interactions. This platform enables efficient scheduling, communication, 
 				and information sharing between healthcare professionals and their patients.`,
             logos: [
-                "../c_sharp.png",
-                "../sql.png",
-                "../html.png",
+                `${process.env.PUBLIC_URL}/c_sharp.png`,
+                `${process.env.PUBLIC_URL}/sql.png`,
+                `${process.env.PUBLIC_URL}/html.png`,
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com/TheFazzz/TuffyHealthNew"

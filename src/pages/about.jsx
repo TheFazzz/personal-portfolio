@@ -65,7 +65,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="../about_page.jpg"
+											src="about_page.jpg"
 											alt="about"
 											className="about-image"
 										/> {/* Display about photo */}
