@@ -41,10 +41,7 @@ const INFO = {
                 `${process.env.PUBLIC_URL}/react.png`
             ],
 			linkText1: "GitHub",
-			link1: "https://github.com/TheFazzz",
-			linkText2: "Live",
-			link2: "https://github.com/TheFazzz"
-            
+			link1: "https://github.com/TheFazzz/personal-portfolio"
 		},
 
 		{
